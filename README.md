@@ -43,7 +43,8 @@
   ```
 * `git add .`
 * `git commit -m "Boilerplate"`
-* 
+* Make repo in GitHub. Copy provided link.
+* `git remote add origin <link>`
 * 
 * 
 * 
